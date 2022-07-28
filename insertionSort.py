@@ -35,13 +35,4 @@ insertionSort(A)
 print("Sorted Array :",A)
 
 
-##Trying again:
-# def insertionSort(A):
-#     n=len(A)
-#     for i in range(1,n):
-#         position=i
-#         temp=A[i]
-#         while position >0 and A[position-1]>temp:
-#             A[position]=A[position-1]
-#             position=position-1
-#         A[position]=temp
+
