@@ -1,3 +1,9 @@
+
+# The program takes in the number of test cases in the first line of input.
+# This is followed by space-separated values of m,n, and s that indicate the number of rows, columns, and length of string respectively.
+# The following line is the string of length 's' that needs to be inserted spirally inward into a matrix.
+# The output of each test case will be the matrix with the required string entered spirally.
+
 t=int(input())
 i=0
 
